@@ -1,0 +1,5 @@
+E:\1开发\编码\doNet\0.myself\NHibernateLearn\Iwenli.NHLearn.Part1\Iwenli.NHLearn.Part1.Model\bin\Debug\Iwenli.NHLearn.Part1.Model.dll
+E:\1开发\编码\doNet\0.myself\NHibernateLearn\Iwenli.NHLearn.Part1\Iwenli.NHLearn.Part1.Model\bin\Debug\Iwenli.NHLearn.Part1.Model.pdb
+E:\1开发\编码\doNet\0.myself\NHibernateLearn\Iwenli.NHLearn.Part1\Iwenli.NHLearn.Part1.Model\obj\Debug\Iwenli.NHLearn.Part1.Model.csprojResolveAssemblyReference.cache
+E:\1开发\编码\doNet\0.myself\NHibernateLearn\Iwenli.NHLearn.Part1\Iwenli.NHLearn.Part1.Model\obj\Debug\Iwenli.NHLearn.Part1.Model.dll
+E:\1开发\编码\doNet\0.myself\NHibernateLearn\Iwenli.NHLearn.Part1\Iwenli.NHLearn.Part1.Model\obj\Debug\Iwenli.NHLearn.Part1.Model.pdb

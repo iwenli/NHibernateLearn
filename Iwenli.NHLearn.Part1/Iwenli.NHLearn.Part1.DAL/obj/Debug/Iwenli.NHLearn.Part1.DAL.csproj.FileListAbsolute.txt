@@ -1,0 +1,11 @@
+E:\1开发\编码\doNet\0.myself\NHibernateLearn\Iwenli.NHLearn.Part1\Iwenli.NHLearn.Part1.DAL\bin\Debug\Iwenli.NHLearn.Part1.DAL.dll
+E:\1开发\编码\doNet\0.myself\NHibernateLearn\Iwenli.NHLearn.Part1\Iwenli.NHLearn.Part1.DAL\bin\Debug\Iwenli.NHLearn.Part1.DAL.pdb
+E:\1开发\编码\doNet\0.myself\NHibernateLearn\Iwenli.NHLearn.Part1\Iwenli.NHLearn.Part1.DAL\bin\Debug\Iesi.Collections.dll
+E:\1开发\编码\doNet\0.myself\NHibernateLearn\Iwenli.NHLearn.Part1\Iwenli.NHLearn.Part1.DAL\bin\Debug\Iwenli.NHLearn.Part1.Model.dll
+E:\1开发\编码\doNet\0.myself\NHibernateLearn\Iwenli.NHLearn.Part1\Iwenli.NHLearn.Part1.DAL\bin\Debug\NHibernate.dll
+E:\1开发\编码\doNet\0.myself\NHibernateLearn\Iwenli.NHLearn.Part1\Iwenli.NHLearn.Part1.DAL\bin\Debug\Iwenli.NHLearn.Part1.Model.pdb
+E:\1开发\编码\doNet\0.myself\NHibernateLearn\Iwenli.NHLearn.Part1\Iwenli.NHLearn.Part1.DAL\bin\Debug\Iesi.Collections.xml
+E:\1开发\编码\doNet\0.myself\NHibernateLearn\Iwenli.NHLearn.Part1\Iwenli.NHLearn.Part1.DAL\bin\Debug\NHibernate.xml
+E:\1开发\编码\doNet\0.myself\NHibernateLearn\Iwenli.NHLearn.Part1\Iwenli.NHLearn.Part1.DAL\obj\Debug\Iwenli.NHLearn.Part1.DAL.csprojResolveAssemblyReference.cache
+E:\1开发\编码\doNet\0.myself\NHibernateLearn\Iwenli.NHLearn.Part1\Iwenli.NHLearn.Part1.DAL\obj\Debug\Iwenli.NHLearn.Part1.DAL.dll
+E:\1开发\编码\doNet\0.myself\NHibernateLearn\Iwenli.NHLearn.Part1\Iwenli.NHLearn.Part1.DAL\obj\Debug\Iwenli.NHLearn.Part1.DAL.pdb
